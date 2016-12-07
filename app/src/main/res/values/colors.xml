@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#edeaea</color>
+    <color name="colorPrimaryDark">#edeaea</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="ash">#edeaea</color>
+    <color name="green">#18c40c</color>
+    <color name="black">#000000</color>
+    <color name="addresscolor">#9b9999</color>
+</resources>

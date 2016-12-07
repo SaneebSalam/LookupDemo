@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lookup</string>
+    <string name="lookup">Lookup</string>
+    <string name="categories_handpicked_for_you">Categories handpicked for you</string>
+    <string name="chat_now_with_nearby_stores">Chat now with nearby stores</string>
+    <string name="search_nearby_stores">Search nearby stores</string>
+</resources>
